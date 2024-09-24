@@ -1,0 +1,6 @@
+Generate metadata for a specific participantId using the given logs and participantId. 
+You must extract the "conversationSetupDiagnosticsData", "eventTimestampBag" and "rgParticipantId" for the participant.
+Finally, print the result in json format and do not include extra content.
+
+participantId: "{{participantId}}" 
+logs: "{{Output7}}"

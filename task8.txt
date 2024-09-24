@@ -1,0 +1,10 @@
+You can deduce meaningful information as a short summary from a set of logs for a specific participant with a given participantId.
+
+Summary should have the events that the call modality service went through using eventTimestampBag and conversationSetupDiagnosticsData data. Highlight the log level and errors if any. 
+
+Don't include any information that can't be inferred from the Logs given below.
+
+Create a summary from the following Logs and participantId in not more than 500 words. Finally print the result in bullet list.
+
+participantId: "{{participantId}}"
+Logs:"{{Output7}}"
