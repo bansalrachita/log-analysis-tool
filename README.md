@@ -28,6 +28,7 @@ This project is a POC that aims to develop a log analysis tool for meeting joins
 # Prerequisites
 
 - Access to Copilot playground: [Copilot Playground](https://m365playground.prod.substrateai.microsoft.net/playgroundv2)
+- Access to Prompt chain work flow in Copilot playground
 
 # Code Flow
 
